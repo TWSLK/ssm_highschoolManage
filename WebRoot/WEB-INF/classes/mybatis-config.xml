@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"D:\add\org\apache\ibatis\builder\xml\mybatis-3-config.dtd">
+<configuration>
+
+   <mappers>
+   <mapper  resource="com/mapper/AllusersMapper.xml"/>
+   <mapper  resource="com/mapper/YonghuzhuceMapper.xml"/>
+   <mapper  resource="com/mapper/XinwentongzhiMapper.xml"/>
+   <mapper  resource="com/mapper/PinglunMapper.xml"/>
+   <mapper  resource="com/mapper/ShoucangjiluMapper.xml"/>
+   <mapper  resource="com/mapper/LiuyanbanMapper.xml"/>
+   <mapper  resource="com/mapper/YouqinglianjieMapper.xml"/>
+   <mapper  resource="com/mapper/BanjixinxiMapper.xml"/>   <mapper  resource="com/mapper/XueshengxinxiMapper.xml"/>   <mapper  resource="com/mapper/YonggongbumenMapper.xml"/>   <mapper  resource="com/mapper/GangweixinxiMapper.xml"/>   <mapper  resource="com/mapper/QingongzhuxueMapper.xml"/>   <mapper  resource="com/mapper/JiaoshixinxiMapper.xml"/>   <mapper  resource="com/mapper/XueyuanMapper.xml"/>   <mapper  resource="com/mapper/KunnanshengshenqingMapper.xml"/>   <mapper  resource="com/mapper/ZhuxuejinMapper.xml"/>   <mapper  resource="com/mapper/GongzuojiluxinxiMapper.xml"/>   
+   
+   </mappers>
+
+</configuration>
